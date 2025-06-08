@@ -118,10 +118,6 @@ body {
 .our-work .box:hover::before {
   transform: translate(0);
 }
-/* Start Stuff */
-/* .stuff .description {
-  /* width: 500px; 
-} */
 /* Start Team */
 .team {
   background-color: var(--section-color);
@@ -183,8 +179,8 @@ footer .youtube {
 /* #1c7ed6 */
 
 .mylogo {
-  width: 120px;
-  height: 100px;
+  /* width: 120px; */
+  height: 80px;
   filter: drop-shadow(0 0 2em rgba(212, 175, 55));
   transition: 0.3s;
 }
