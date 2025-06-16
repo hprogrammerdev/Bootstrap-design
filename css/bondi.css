@@ -181,7 +181,6 @@ footer .youtube {
 .mylogo {
   /* width: 120px; */
   height: 80px;
-  filter: drop-shadow(0 0 2em rgba(212, 175, 55));
   transition: 0.3s;
 }
 .mylogo:hover {
